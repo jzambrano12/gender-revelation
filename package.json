@@ -8,7 +8,15 @@
   "dependencies": {
     "mongodb": "^3.5.9",
     "next": "latest",
+    "ramda": "^0.27.1",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-beautiful-dnd": "^13.1.0",
+    "react-dom": "^17.0.2",
+    "react-use": "^17.3.1",
+    "styled-components": "^5.3.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.13.2",
+    "prettier": "2.3.2"
   }
 }
