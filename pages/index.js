@@ -381,8 +381,8 @@ Home.RightColumn = styled.div`
 Home.Items = styled.div`
   display: flex;
   justify-content: center;
-  flex: 1;
   width: 100%;
+  height: auto;
   box-sizing: border-box;
   flex-wrap: wrap;
   padding: 1rem;
